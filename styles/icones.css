@@ -1,0 +1,45 @@
+.icons_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  width: 100%;
+}
+
+.container_icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.container_icons h3 {
+  font-family: "Bebas Neue", sans-serif;
+  font: bold;
+  font-size: 2rem;
+  text-align: center;
+  }
+
+.container_icons p {
+  text-align: left;
+  font-size: 1.2rem;
+  width: 80%;
+  line-height: 1.7rem;
+}
+
+
+.fa-medal {
+  color: #f68f22;
+  font-size: 150px;
+}
+
+.fa-sack-dollar {
+  color: #f68f22;
+  font-size: 150px;
+}
+
+.fa-gauge-high {
+  color: #f68f22;
+  font-size: 150px;
+}

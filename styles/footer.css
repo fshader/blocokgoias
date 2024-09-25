@@ -1,0 +1,86 @@
+/*RODAPÉ*/
+
+.main_footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  height: 500px;
+  background-color: #3D5E96;
+}
+
+.main_footer img{
+  padding: 10px;
+  margin-left: 4.5rem;
+  margin-top: 3rem;
+  width: auto;
+  height: 100px;
+}
+
+.main_footer_paragrafo {
+  padding: 1.5rem;
+  font-family: "Poppins", sans-serif;
+  color: #ffffff;
+  font-size: 1rem;
+  padding: 20px 0px 0px 0px;
+  margin-left: 5rem;
+}
+
+.footer_fabrica {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  margin-left: 5rem;
+  margin-bottom: 5rem;
+}
+
+.footer_fabrica h2{
+  padding: 1.5rem;
+  font-family: "Poppins", sans-serif;
+  color: #ffffff;
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 20px 0px 0px 0px;
+}
+
+.footer_fabrica p {
+  font-family: "Poppins", sans-serif;
+  color: #ffffff;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  padding: 0px;
+}
+
+.main_footer_container {
+  margin-top: 3rem;
+  margin-left: 15rem;
+}
+
+.fa-zap {
+  font-size: 1.5rem;
+  margin-top: 10px;
+  color: #25D366;
+  padding: 5px;
+}
+
+.footer_telefone {
+  font-family: "Poppins", sans-serif;
+  font-size: 1rem;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.fa-regular {
+  font-size: 1.5rem;
+  margin-top: 10px;
+  color: #ffffff;
+  padding: 5px;
+}
+
+.footer_email {
+  font-family: "Poppins", sans-serif;
+  font-size: 1rem;
+  text-decoration: none;
+  color: #ffffff;
+}

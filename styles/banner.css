@@ -1,0 +1,68 @@
+/*BANNER*/
+.banner {
+  display: flex;
+  width: 100%;
+  height: 700px;
+  background-color: #000000;
+  background: url(/assets/banner_principal.jpeg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.9;
+}
+
+.up_text {
+  font-family: sans-serif;
+  font-size: 1.5rem;
+  color: #ffff;
+  background-color: #f68f22;
+  text-align: justify;
+}
+
+.banner_texto_titulo {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: bold;
+  color: #fff;
+  text-shadow: black 0.1em 0.1em 0.2em;
+  border-left: 5px solid rgb(223, 154, 26);
+  font-size: 5.5rem;
+  text-transform: uppercase;
+  padding: 5px;
+  margin-left: 50px;
+}
+
+.banner_texto {
+  display: flex;
+  align-items:first baseline;
+  justify-content: center;
+  flex-direction: column;
+  fle
+  gap: 10px;
+}
+
+.marcacao_blocok {
+  color: #5171fd;
+  font-weight: bolder;
+}
+
+.banner_texto_paragrafo {
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  color: #fff;
+  text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+.banner_button {
+  font-family: sans-serif;
+  color: #ffff;
+  font-size: 1rem;
+  background-color: #f68f22;
+  padding: 20px;
+  border-radius: 20px;
+  cursor: pointer;
+  width: 40%;
+}
+
+.fa-whatsapp5 {
+  color: #ffff;
+  font-size: 1rem;
+}
